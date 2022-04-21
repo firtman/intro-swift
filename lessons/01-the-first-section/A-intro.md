@@ -3,11 +3,9 @@ title: "Introduction"
 description: "The introduction to this course."
 ---
 
-Hello! And welcome to the Next.js course starter by [Brian Holt][twitter].
+Hello! And welcome to the Introduction to Swift and iOS Development by [Maximiliano Firtman][twitter].
 
-![Cat, dog, and rat logo for the course](./images/BRAND-WHearts.png)
+This is a course to start with Swift, SwiftUI, Xcode and iOS App development published with [Frontend Masters][fem].
 
-This is a course starter specifically made for making online courses and optimized for use with [Frontend Masters][fem].
-
-[twitter]: https://twitter.com/holtbt
+[twitter]: https://twitter.com/firt
 [fem]: https://www.frontendmasters.com
