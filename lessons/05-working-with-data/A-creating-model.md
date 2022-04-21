@@ -21,7 +21,7 @@ struct Product {
 ```swift
 struct Category {
     var name: String
-    var items: [Product] = []    
+    var products: [Product] = []    
 }
 ```
 

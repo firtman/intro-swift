@@ -116,6 +116,6 @@ struct Product: Identifiable {
 struct Category: Identifiable {
     var id: String { name }
     var name: String
-    var items: [Product] = []
+    var products: [Product] = []
 }
 ```

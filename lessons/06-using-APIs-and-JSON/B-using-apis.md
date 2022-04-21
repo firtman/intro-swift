@@ -41,7 +41,7 @@ struct Product: Identifiable, Decodable {
 struct Category: Identifiable, Decodable {
     var id: String { name }
     var name: String
-    var items: [Product] = []
+    var products: [Product] = []
 }
 ```
 

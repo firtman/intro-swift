@@ -6,7 +6,7 @@ To add a search or filter to our product list, we can update our Category file a
 struct Category: Decodable, Identifiable {
     var id: String { name }
     var name: String
-    var items: [Product] = []
+    var products: [Product] = []
     
     func filteredItems(text: String) -> [Product] {
         if text.count > 0 {
