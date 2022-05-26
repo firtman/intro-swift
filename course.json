@@ -13,5 +13,5 @@
   },
   "description": "Workshop for Frontend Masters to learn Swift and iOS app development with Swift UI.",
   "keywords": ["swift", "ios development", "swiftui", "mobile apps"],
-  "productionBaseUrl": "/intro-swift"
+  "productionBaseUrl": "/intro-swift" 
 }
