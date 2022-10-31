@@ -54,5 +54,5 @@ ForEach(menuManager.menu) { category in
 
 ```swift
  // Add to the List
- .searchable(text: #search)
+ .searchable(text: $search)
 ```
